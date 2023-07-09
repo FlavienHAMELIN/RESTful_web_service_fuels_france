@@ -6,6 +6,16 @@ RESTful_web_service_fuels_france allows you to observe the price of fuel on the 
 
 Install Apache Maven
 
+Install XAMPP
+
+Run Apache Web Server on XAMPP
+
+Run MySQL Database on XAMPP using the port 3306
+
+Open [phpMyAdmin](http://localhost/phpmyadmin/)
+
+Create a new database called "stations"
+
 Go to the project root
 
 Compile
